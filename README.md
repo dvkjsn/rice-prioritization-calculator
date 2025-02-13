@@ -24,11 +24,7 @@ git clone https://github.com/dvkjsn/feature-prioritization-calculator.git
 3. Input feature values and get instant prioritization results.
 
 Demo:
-## Demo
-<video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/dvkjsn/rice-prioritization-calculator/main/demp_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch Demo Video](https://github.com/dvkjsn/rice-prioritization-calculator/blob/main/demp_video.mp4)
 
 Future Enhancements
 - Add export functionality (CSV/Excel) for priority results.
